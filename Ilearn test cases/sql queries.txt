@@ -1,0 +1,4 @@
+
+
+
+SELECT DISTINCT supervisor_user_id FROM `user_supervisor` us left JOIN user u ON us.user_id=u.id WHERE us.supervisor_user_id in(SELECT user_id FROM user_to_srg us LEFT JOIN user u ON us.srg_user_id= u.id WHERE srg_user_id IN (SELECT srg_user_id FROM `user_to_srg`) AND u.status_id in (5,13,14) and u.fqml_global_id <= 888000) AND us.is_current=1 AND u.status_id in(5,13,14) ORDER BY supervisor_user_id

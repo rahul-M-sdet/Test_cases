@@ -1,0 +1,5 @@
+Point to discuss
+
+1.  For 1440X900 only we have tested if we didn't select any strength card and after clicking next button for that popup screen, since there no design for other view port.
+
+2. Transformational page we have not validated for 1902X1080 since there is no design given for this view port for different language

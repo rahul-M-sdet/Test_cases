@@ -1,0 +1,3 @@
+Term code validation.
+
+Register page- Panama,suomi,Espanol

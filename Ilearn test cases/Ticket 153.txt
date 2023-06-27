@@ -1,0 +1,36 @@
+Retesting bug fixed issue Ticket 153.
+
+
+1. Issue not fixed.
+2. Done
+3.done
+4. done
+5.done
+6. point is not clear
+7. Done
+8.Done
+9.Done
+10. Done
+11. We cannot validate
+12. Need to confirm 
+13. Need to confirm 
+
+In UAT
+
+1. In progress status is not showing as per design in My team.
+
+Checking 153 in UAT 
+
+1. Done
+2. Done
+3. Done.
+4. Neeed to discuss
+5. Done
+6. Done
+7. Need to discuss.
+8. Done
+9. Done.
+10.Done
+11. For nic device
+12.Done
+13. Done

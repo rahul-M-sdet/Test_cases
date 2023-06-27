@@ -1,0 +1,41 @@
+Vaidated in UAT
+
+1.AC-68- Need to check
+2.AC-141- Done
+3.AC-150-done
+4.AC-151-Prashant alredy tested
+5.AC-153-Done
+6.AC-157-Done 
+7.AC-159-Done
+8.AC-160-Done
+9.AC-179 -Done
+10. AC-180-Done
+11.AC-181-Done
+12.AC-197-Done
+13.AC-43-Done
+14.AC-44-Done
+15.AC-45 , Point no-8, still not fixed, 9-wrong error mesg
+16.AC-46 , point no -1 is not fixed, point n0-10 still issue is there color is not matching with design.
+17.AC-47 Done
+18.ac-48 Done
+19. AC-49 Done
+20. AC-50 Done
+21. AC-51 Done
+22. AC-52 Done
+23. AC-53 Error mesg is displayed correctly
+24. AC-55 Done
+25. AC-59 Done
+26. AC-68 Done
+27. AC-118 Done
+28. AC-144 Done
+29. AC-152 Done
+30. AC-154 Done
+31. AC-156 Done
+32. AC-161 Done.
+33. AC-163 Nick device done by prashanth
+34. AC-164 term code done by prasahnth
+35. AC-167 Done
+36. AC-184 Done
+37. AC-158 Done
+
+
